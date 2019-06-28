@@ -1,0 +1,24 @@
+{
+  "name": "ATP-REST-nodejs",
+  "version": "1.0.0",
+  "description": "REST APIs for Oracle Autonomous Transaction Processing Service written in node.js",
+  "main": "listAutonomousDatabases.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-signature": "^1.0",
+    "jssha": "^2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbhanush/ATP-REST-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Kris Bhanushali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbhanush/ATP-REST-nodejs/issues"
+  },
+  "homepage": "https://github.com/kbhanush/ATP-REST-nodejs#readme"
+}
